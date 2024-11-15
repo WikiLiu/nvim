@@ -25,7 +25,6 @@ return {
   --  },
   --},
 
-{   "tomasky/bookmarks.nvim"},
   -- change trouble config
   {
     "folke/trouble.nvim",
